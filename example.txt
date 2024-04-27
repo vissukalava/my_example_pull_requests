@@ -1,2 +1,2 @@
-This is the initial text
-On main branch. conflict.
+conflicting change
+
