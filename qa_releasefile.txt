@@ -1,1 +1,2 @@
 This is the QA release file.
+There is also an update on github.
